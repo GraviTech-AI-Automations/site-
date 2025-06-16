@@ -40,7 +40,7 @@ function HeroSection() {
                             spreadsheets until midnight. You started it to make an impact, serve your customers, and actually grow.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 justify-center items-center">
-                            <a href="#solutions" className="w-full sm:w-auto bg-gradient-to-r from-cyan-500 to-blue-500 hover:from-cyan-600 hover:to-blue-600 text-white font-semibold py-3 sm:py-4 px-6 sm:px-8 rounded-lg transition-all duration-300 transform hover:scale-105 glow-effect text-center">
+                            <a href="https://form.typeform.com/to/Ey1tmru3" className="w-full sm:w-auto bg-gradient-to-r from-cyan-500 to-blue-500 hover:from-cyan-600 hover:to-blue-600 text-white font-semibold py-3 sm:py-4 px-6 sm:px-8 rounded-lg transition-all duration-300 transform hover:scale-105 glow-effect text-center">
                                 Discover AI Solutions
                             </a>
                             <a href="#contact" className="w-full sm:w-auto glassmorphism text-white font-semibold py-3 sm:py-4 px-6 sm:px-8 rounded-lg hover:bg-white hover:bg-opacity-10 transition-all duration-300 text-center">
