@@ -30,10 +30,10 @@ function ContactSection() {
                             Let's brainstorm how to automate it into oblivion.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                            <a href="mailto:hello@aiautomation.com" className="bg-gradient-to-r from-cyan-500 to-purple-500 hover:from-cyan-600 hover:to-purple-600 text-white font-semibold py-4 px-8 rounded-lg transition-all duration-300 transform hover:scale-105 glow-effect">
+                            <a href="mailto:pranav@gravitechai.online" className="bg-gradient-to-r from-cyan-500 to-purple-500 hover:from-cyan-600 hover:to-purple-600 text-white font-semibold py-4 px-8 rounded-lg transition-all duration-300 transform hover:scale-105 glow-effect">
                                 Start the Conversation
                             </a>
-                            <a href="tel:+1234567890" className="glassmorphism text-white font-semibold py-4 px-8 rounded-lg hover:bg-white hover:bg-opacity-10 transition-all duration-300">
+                            <a href="https://form.typeform.com/to/Ey1tmru3" className="glassmorphism text-white font-semibold py-4 px-8 rounded-lg hover:bg-white hover:bg-opacity-10 transition-all duration-300">
                                 Schedule a Call
                             </a>
                         </div>
